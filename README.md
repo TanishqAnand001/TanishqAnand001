@@ -69,8 +69,6 @@ I am a versatile developer driven by a passion for creating practical and engagi
       <p><strong>Tech:</strong> Python, NumPy, Machine Learning</p>
       <a href="https://wine-quality-ml-project-frontend.streamlit.app/">View Live Demo</a>
     </td>
-    <td valign="top" width="50%">
-      </td>
   </tr>
   
 </table>
