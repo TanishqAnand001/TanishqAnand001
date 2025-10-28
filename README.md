@@ -64,8 +64,6 @@ I am a versatile developer driven by a passion for creating practical and engagi
       <a href="https://github.com/TanishqAnand001/Maze-Predictions">View Repository</a>
     </td>
     <td valign="top" width="50%">
-      </td>
-    <td valign="top" width="50%">
       <h3>Wine Quality Prediction</h3>
       <p>An Random Forest Machine Learning Algorithm To Predict Wine Quality(Classification Problem).</p>
       <p><strong>Tech:</strong> Python, NumPy, Machine Learning</p>
