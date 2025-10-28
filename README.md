@@ -50,10 +50,10 @@ I am a versatile developer driven by a passion for creating practical and engagi
       <a href="https://github.com/TanishqAnand001/Q.S-Gen">View Repository</a>
     </td>
     <td valign="top" width="50%">
-      <h3>Stellar Conflict</h3>
-      <p>A classic top-down shoot 'em up game built in Python, featuring power-ups, a shop system, boss battles, and dynamic difficulty.</p>
-      <p><strong>Tech:</strong> Python, Pygame</p>
-      <a href="https://github.com/TanishqAnand001/Stellar-Conflict">View Repository</a>
+      <h3>Github Topics Web Scrapper</h3>
+      <p>This project is a Python-based web scraper designed to extract information about various topics and their associated repositories from GitHub. </p>
+      <p><strong>Tech:</strong> Python, BeautifulSoup</p>
+      <a href="https://githob-topics-scrapper.streamlit.app/">View Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -66,6 +66,7 @@ I am a versatile developer driven by a passion for creating practical and engagi
     <td valign="top" width="50%">
       </td>
   </tr>
+  
 </table>
 
 ## My GitHub Stats
